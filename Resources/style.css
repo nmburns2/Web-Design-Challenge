@@ -1,4 +1,4 @@
-/* navbar styling*/
+/* navbar*/
 a.navbar-brand{
     padding: 10px;
     background-color:lightblue;
@@ -6,32 +6,11 @@ a.navbar-brand{
     font-weight: bolder;
 }
 
-/* header styling*/
-h3{
-    color: gray;
-    padding: 15px;
-    font-weight: bolder;
-}
-
-.row { align-items: center; 
-}
-
-
-/* body background*/
-body{
-    background-color: whitesmoke;
-}
-
-.img-thumbnail{
-    padding:10px;
-    border: black;
-}    
-
-/* navbar styling*/
 .navbar{
     padding-top:0px;
     padding-bottom: 0px;
     padding-right:40px;
+    padding-left: 40px;
 }
 
 .nav-item.dropdown.show {
@@ -42,6 +21,32 @@ body{
     margin: 0;
 }
 
+/* header*/
+h1{
+    color: gray;
+    padding: 15px;
+    font-weight: bolder;
+}
+
+h3{
+    color: gray;
+    padding: 15px;
+    font-weight: bolder;
+}
+
+/* body*/
+body{
+    background-color: whitesmoke;
+}
+
+.img-thumbnail{
+    padding:10px;
+    border: black;
+}    
+
+.row { align-items: center; 
+}
+
 /* content styling*/
 .content {
     padding-top: 50px;
@@ -50,5 +55,5 @@ body{
 }
 
 .content.bg-white {
-    margin-top: 15px;
+    margin-top: 10px;
 }
