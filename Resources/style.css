@@ -1,7 +1,7 @@
 /* navbar styling*/
 a.navbar-brand{
     padding: 10px;
-    background-color: gray;
+    background-color:lightblue;
     font-size: 15px;
     font-weight: bolder;
 }
@@ -13,10 +13,7 @@ h3{
     font-weight: bolder;
 }
 
-/* image styling*/
-.img-thumbnail{
-    padding:10px;
-    border: none;
+.row { align-items: center; 
 }
 
 
@@ -24,16 +21,12 @@ h3{
 body{
     background-color: whitesmoke;
 }
-.col-md-12{
-    background-color: white;
-    padding-top: 20px;
-    padding-bottom:40px;
-}
 
-/* image border styling*/
-.pic{
-    border: 3px solid rgb(81, 175, 160);
-}
+.img-thumbnail{
+    padding:10px;
+    border: black;
+}    
+
 /* navbar styling*/
 .navbar{
     padding-top:0px;
